@@ -21,6 +21,12 @@ const app = {
     isRepeat: false,
     songs: [
         {
+            name: 'Never Gonna Give You Up',
+            singer: 'Rick Astley',
+            path: './assets/music/y2mate.com - Rick Astley  Never Gonna Give You Up Official Music Video.mp3',
+            image: './assets/image/Rick Roll.jpg'
+        },
+        {
             name: 'KANABOON  Silhouette',
             singer: 'KANABOON offcial',
             path: './assets/music/y2mate.com - KANABOON  Silhouette.mp3',
