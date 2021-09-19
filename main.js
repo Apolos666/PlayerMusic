@@ -21,8 +21,8 @@ const app = {
     isRepeat: false,
     songs: [
         {
-            name: 'Never Gonna Give You Up2',
-            singer: 'Rick Astley2',
+            name: 'Never Gonna Give You Up',
+            singer: 'Rick Astley',
             path: './assets/music/y2mate.com - Onii  Chan Baka .mp3',
             image: './assets/image/Rick Roll.jpg'
         },
